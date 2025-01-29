@@ -30,5 +30,6 @@ desenvolvido por meio da formação inicial de desenvolvimento do programa Oracl
 </p>
 
 ##
- <a href= "https://www.instagram.com/jvcalb/" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/jvcalb%20-%20purple?style=for-the-badge&logo=instagram&link=instagram.com%2Fjvcalb"> </a>
+  <a href="https://instagram.com/jvcalb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/josekkkj" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
